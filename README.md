@@ -36,6 +36,7 @@ Important files :
 
 This project uses `node-dijkstra` library to find the best route
 
+[node-dijkstra](https://www.npmjs.com/package/node-dijkstra)
 
 ### `Installation`
 
@@ -50,7 +51,7 @@ or
 yarn global add firebase-tools
 ```
 
-Install Firebase Tools
+Install Firebase Functions
 ```
 npm install -g firebase-functions
 ```
